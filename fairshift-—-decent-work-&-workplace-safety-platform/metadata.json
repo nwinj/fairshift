@@ -1,0 +1,6 @@
+{
+  "name": "FairShift — Decent Work & Workplace Safety Platform",
+  "description": "Multilingual role-based PWA for transparent shift tracking, audio payslips, hazard reporting, anonymous worker pulse, fatigue alerts, and explainable quit-risk insights (UN SDG 8).",
+  "requestFramePermissions": ["geolocation", "microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
